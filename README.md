@@ -80,8 +80,8 @@ Projeto acadêmico de desenvolvimento web com banco de dados.
 
 Estou aberta a oportunidades de estágio e novos desafios na área de tecnologia!
 
-- 💼 LinkedIn: adicione seu link
-- 📧 E-mail: adicione seu e-mail profissional
+- 💼 LinkedIn: linkedin.com/in/maria-ortiz-ba1b46437
+- 📧 E-mail: mariaortiz.codes2gmail.com
 
 <div align="center">
 
