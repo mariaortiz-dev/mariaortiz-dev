@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="./assets/github-banner.png" width="100%" alt="Maria Ortiz - Developer Banner">
+</div>
 # Olá! Eu sou a Maria Ortiz 👋💜
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, com previsão de conclusão em junho de 2027.
